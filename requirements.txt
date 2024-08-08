@@ -1,0 +1,3 @@
+If you have any questions, please contact my instagram https://www.instagram.com/asroralva/
+
+I did this scraping with a library from https://playwright.dev/python/docs/intro 
